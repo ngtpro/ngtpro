@@ -19,7 +19,6 @@
 [![](https://zenn.badge.nikaera.com/s/jackmiwamiwa/likes?style=plastic)](https://zenn.dev/ngtpro)
 
 
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ngtpro&theme=dracula)
 <p>
 <a href="https://github.com/ngtpro">
@@ -29,6 +28,8 @@
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngtpro&layout=compact&theme=dracula" />
 </a>
 </p>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ngtpro)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ngtpro/ngtpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
