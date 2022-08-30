@@ -20,18 +20,22 @@
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ngtpro&theme=dark)
-<p>
-<a href="https://github.com/ngtpro">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=ngtpro&count_private=true&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/ngtpro">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngtpro&layout=compact&theme=dark" />
-</a>
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngtpro&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=dark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ngtpro&count_private=true&show_icons=true&show_icons=true&theme=dark" />
 </p>
 
-<p>
+[![](https://raw.githubusercontent.com/ngtpro/ngtpro/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ngtpro/ngtpro/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ngtpro/ngtpro/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://activity-graph.herokuapp.com/graph?username=ngtpro&theme=github)](https://activity-graph.herokuapp.com/graph?username=ngtpro&theme=github)
+
+
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ngtpro)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
