@@ -22,10 +22,10 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ngtpro&theme=dracula)
 <p>
-<a href="https://github.com/miwashutaro0611">
+<a href="https://github.com/ngtpro">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=ngtpro&count_private=true&show_icons=true&theme=dracula" />
 </a>
-<a href="https://github.com/miwashutaro0611">
+<a href="https://github.com/ngtpro">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngtpro&layout=compact&theme=dracula" />
 </a>
 </p>
