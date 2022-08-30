@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-社内システム開発用の為、非公開です。
-(Nextjs/Vue3/TS/Nestjs/PHPv7/Go/Python3/dart)
-
-
 [ ![miwashutaro0611](https://komarev.com/ghpvc/?username=ngtpro)
 ](https://github.com/ngtpro/ngtpro/)
 [![](https://img.shields.io/twitter/follow/Ngtpro27?label=Twitter&logo=twitter&style=flat)
