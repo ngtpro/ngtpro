@@ -14,8 +14,15 @@
 [![](https://zenn.badge.nikaera.com/s/ngtpro/articles?style=plastic)](https://zenn.dev/ngtpro/articles)
 [![](https://zenn.badge.nikaera.com/s/ngtpro/likes?style=plastic)](https://zenn.dev/ngtpro)
 
-![](https://raw.githubusercontent.com/ngtpro/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/ngtpro/github-stats/master/generated/languages.svg#gh-light-mode-only)
+## Activity
+
+![](https://raw.githubusercontent.com/ngtpro/ngtpro/main/profile-summary-card-output/github_dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/ngtpro/ngtpro/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/ngtpro/ngtpro/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/ngtpro/ngtpro/main/profile-summary-card-output/github_dark/3-stats.svg)
+![](https://raw.githubusercontent.com/ngtpro/ngtpro/main/profile-summary-card-output/github_dark/4-productive-time.svg)
+
+## Work time
 
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TSUTOMU&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
