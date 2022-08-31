@@ -28,7 +28,7 @@
 
 ## Skills
 
-### Framework
+### Languages & Framework
 
 [![](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=TypeScript)](https://github.com/ngtpro)
 [![](https://img.shields.io/badge/-Next.js-000?style=flat&logo=Next.js)](https://github.com/ngtpro)
