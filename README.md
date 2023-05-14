@@ -24,7 +24,7 @@
 
 ## Work time
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TSUTOMU&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TSUTOMU&layout=compact&show_icons=true&theme=dark&link=https://www.github.com/TSUTOMU/)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
 
