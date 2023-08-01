@@ -37,12 +37,9 @@
 [![](https://img.shields.io/badge/-Vue.js-000?style=flat&logo=Vue.js)](https://github.com/ngtpro)
 [![](https://img.shields.io/badge/-Electron-000?style=flat&logo=Electron)](https://github.com/ngtpro)
 [![](https://img.shields.io/badge/-Node.js-000?style=flat&logo=Node.js)](https://github.com/ngtpro)
-[![](https://img.shields.io/badge/-Nest.js-000?style=flat&logo=Nestjs)](https://github.com/ngtpro)
 [![](https://img.shields.io/badge/-Go-000?style=flat&logo=Go)](https://github.com/ngtpro)
 [![](https://img.shields.io/badge/-PHP-000?style=flat&logo=PHP)](https://github.com/ngtpro)
 [![](https://img.shields.io/badge/-Python-000?style=flat&logo=Python)](https://github.com/ngtpro)
-[![](https://img.shields.io/badge/-Flutter-000?style=flat&logo=Flutter)](https://github.com/ngtpro)
-[![](https://img.shields.io/badge/-Dart-000?style=flat&logo=Dart)](https://github.com/ngtpro)
 
 ### CSS Framework
 
@@ -62,7 +59,6 @@
 [![](https://img.shields.io/badge/-GoogleCloud-000?style=flat&logo=GoogleCloud)](https://github.com/ngtpro)
 [![](https://img.shields.io/badge/-firebase-000?style=flat&logo=firebase)](https://github.com/ngtpro)
 [![](https://img.shields.io/badge/-Vercel-000?style=flat&logo=Vercel)](https://github.com/ngtpro)
-[![](https://img.shields.io/badge/-Heroku-000?style=flat&logo=heroku)](https://github.com/ngtpro)
 
 ### Tools
 
