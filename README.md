@@ -40,11 +40,14 @@
 [![](https://img.shields.io/badge/-Go-000?style=flat&logo=Go)](https://github.com/ngtpro)
 [![](https://img.shields.io/badge/-PHP-000?style=flat&logo=PHP)](https://github.com/ngtpro)
 [![](https://img.shields.io/badge/-Python-000?style=flat&logo=Python)](https://github.com/ngtpro)
+[![](https://img.shields.io/badge/-ReactNative-000?style=flat&logo=React)](https://github.com/ngtpro)
 
 ### CSS Framework
 
 [![](https://img.shields.io/badge/-MUI-000?style=flat&logo=MUI)](https://github.com/ngtpro)
 [![](https://img.shields.io/badge/-TailwindCSS-000?style=flat&logo=TailwindCSS)](https://github.com/ngtpro)
+[![](https://img.shields.io/badge/-shadcn/ui-000?style=flat&logo=shadcnui)](https://github.com/ngtpro)
+[![](https://img.shields.io/badge/-NextUI-000?style=flat&logo=nextui)](https://github.com/ngtpro)
 [![](https://img.shields.io/badge/-UIKit-000?style=flat&logo=UIKit)](https://github.com/ngtpro)
 [![](https://img.shields.io/badge/-Sass-000?style=flat&logo=Sass)](https://github.com/ngtpro)
 
@@ -56,12 +59,15 @@
 
 ### Infra
 
+[![](https://img.shields.io/badge/-AWS-000?style=flat&logo=amazonwebservices)](https://github.com/ngtpro)
+[![](https://img.shields.io/badge/-Amplify-000?style=flat&logo=awsamplify)](https://github.com/ngtpro)
 [![](https://img.shields.io/badge/-GoogleCloud-000?style=flat&logo=GoogleCloud)](https://github.com/ngtpro)
 [![](https://img.shields.io/badge/-firebase-000?style=flat&logo=firebase)](https://github.com/ngtpro)
 [![](https://img.shields.io/badge/-Vercel-000?style=flat&logo=Vercel)](https://github.com/ngtpro)
 
 ### Tools
 
+[![](https://img.shields.io/badge/-Storybook-000?style=flat&logo=storybook)](https://github.com/ngtpro)
 [![](https://img.shields.io/badge/-VSCode-000?style=flat&logo=VisualStudioCode)](https://github.com/ngtpro)
 [![](https://img.shields.io/badge/-Figma-000?style=flat&logo=Figma)](https://github.com/ngtpro)
 ...and more
