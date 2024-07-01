@@ -50,6 +50,7 @@
 [![](https://img.shields.io/badge/-NextUI-000?style=flat&logo=nextui)](https://github.com/ngtpro)
 [![](https://img.shields.io/badge/-UIKit-000?style=flat&logo=UIKit)](https://github.com/ngtpro)
 [![](https://img.shields.io/badge/-Sass-000?style=flat&logo=Sass)](https://github.com/ngtpro)
+[![](https://img.shields.io/badge/-Vuetify-000?style=flat&logo=vuetify)](https://github.com/ngtpro)
 
 ### Middleware
 
